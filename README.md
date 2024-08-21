@@ -25,15 +25,28 @@ Management: Providing support, updates, and enhancement after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall methodology is a linear approach where each phase of the project must be completed before moving on to the next, the phases typically include requirements gathering, design, implementation, testing, deployment, and maintenance, it is well used in government or  regulatory  projects where strict adherence to regulations and standards is required, while  Agile methodology is an iterative approach where the project is divided into small, manageable increments called sprints or iterations, each sprint results in a potentially shippable product increment. It is particularly well-suited for software development, where requirements can change rapidly based on user feedback and technological advancements.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+A software developer writes the code and implements the software solutions.
+A quality assurance engineer ensures the software quality by designing and executing tests plans.
+A Project manager oversees the planning, execution, and delivers the software projects.
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+An IDE(Integrates Software Development Environments) is a software that provides a comprehensive tool for writing, debugging, and testing code, for example, Visual Studio code,R Studio, and Pycharm.
+Version Control Systems (VCS) is also a software which is used for tracking changes to source code and coordinating work among team members, example is Git.
+
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+1. Tight deadlines: this is where time is limited for creating the software, which can cause reduce in software quality, to solve this, we just prioritize the task and also use the Agile methodology which allows for iterative progress, frequent reviews, and adjustments which will help in managing the tight deadlines.
+
+2. Technical dept: this is the accumulation of shortcuts, quick fixes, or outdated code that can slow down future development and increase maintenance costs, it is dealt with by cleaning up the codebase, improving structure, and removing outdated code, this reduces technical debt and makes the code easier to maintain.
+  
+3. Changing requirements: this is the frequent changes of project ideas during its production, this can delay production, but it is usually solved by timely communication on changes and the use of agile methodology.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -43,6 +56,14 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the process of crafting questions or statements to get the best response from AI models.
+its importance includes: it is time-saving. It maximizes quality output, that is, by providing a more accurate and relevant response. Creative Exploration, prompt engineering opens up possibilities for creative exploration by experimenting with different prompts to see how the model responds.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Answer:
+vague prompt: what is prompt engineering?
+Improved prompt: Hello chatGPT. Can you help me come up with a question on vague prompting, please make it clear, specific, and concise in a way that my examiner can understand,also explain why the improved prompt is more effective, thanks.
+with this, chatGPT  gives me an accurate and more effective answer to the above question(this question) where I have specified to it that the answer should be clear, specific and concise so that my examiner can understand and probably give me a good grade,
+ 
+
+
