@@ -50,6 +50,11 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+1. Unit testing: it is the testing of individual components or modules of the software applications.
+2. Integration testing: it is the testing of the interactions between different components or subsystems.
+3. System testing: it is the testing of the entire software system as a whole.
+4. Acceptance testing: it is the testing of the software against user requirements to ensure it meets user needs.
+The tests help in identifying and fixing defects earlier in the development stage before deployment.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -62,8 +67,8 @@ its importance includes: it is time-saving. It maximizes quality output, that is
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Answer:
 vague prompt: what is prompt engineering?
-Improved prompt: Hello chatGPT. Can you help me come up with a question on vague prompting, please make it clear, specific, and concise in a way that my examiner can understand,also explain why the improved prompt is more effective, thanks.
-with this, chatGPT  gives me an accurate and more effective answer to the above question(this question) where I have specified to it that the answer should be clear, specific and concise so that my examiner can understand and probably give me a good grade,
+Improved prompt: Hello chatGPT. Can you help me come up with a question on vague prompting, please make it clear, specific, and concise in a way that my examiner can understand, and also explain why the improved prompt is more effective, thanks.
+with this, chatGPT  gives me an accurate and more effective answer to the above question(this question) where I have specified it that the answer should be clear, specific, and concise so that my examiner can understand and probably give me a good grade,
  
 
 
